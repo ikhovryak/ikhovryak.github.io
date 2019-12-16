@@ -2,12 +2,7 @@
 Reconnect is a website that uses speech recognition and analysis to teach people with hearing impairments to talk by giving them feedback on which words they have mispronounced, when they talked too loud/quiet, and when the breaks between the words were too long. We aspire it to be an interactive platform that assists individuals with impaired hearing to **reconnect** with communities and reintegrate into the society.
 
 ### Short notice:
-This repository contains a fully-working prototype of Reconnect built with Flask, Python, and Microsoft Azure Cognitive Services. To check it out:
-1. Clone the repository
-2. Create a new Python environment
-3. Download all the extensions from requirements.py
-4. Run the Flask app
-5. Enjoy!
+Reconnect currently runs on http://45.56.105.89/ server. Since the connection is not https, the JavaScript file recording is not currently supported but we are diligently working on it right now :)
 
 ### Our team
 - Iryna Khovryak, front-end and back-end, Haverford College '22
